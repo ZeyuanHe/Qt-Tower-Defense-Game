@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/map_images">
+        <file>map_images/map.jpg</file>
+    </qresource>
+    <qresource prefix="/tower_images">
+        <file>tower/slowTower.png</file>
+        <file>tower/fastTower.png</file>
+        <file>tower/powerTower.png</file>
+        <file>tower/posionTower.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/enemy_images"/>
+</RCC>

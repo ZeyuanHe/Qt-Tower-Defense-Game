@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix3">
+        <file>slow.png</file>
+        <file>addinghealthh.png</file>
+        <file>poisonn.png</file>
+        <file>freez.png</file>
+    </qresource>
+</RCC>

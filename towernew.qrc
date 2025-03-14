@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix6">
+        <file>fastTower_new.png</file>
+        <file>powerTower_new.png</file>
+        <file>posionTower_new.png</file>
+        <file>slowTower.png</file>
+    </qresource>
+</RCC>
